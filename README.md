@@ -1,6 +1,6 @@
 # 100 Coding Problems
 
-## Easy Problems
+## <span style="color:green">Easy Problems</span>
 
 1. **Hello World**
    - Problem: Print "Hello, World!".
