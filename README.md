@@ -295,4 +295,15 @@
 
 96. **Best Time to Buy and Sell Stock with Cooldown**
    - Problem: You are given an array prices where prices[i] is the price of a given stock on the i-th day, find the maximum profit you can achieve. You may complete as many transactions as you like
+97. **Longest Palindromic Substring**
+   - Problem: Given a string, find the longest substring which is a palindrome.
+
+98. **Minimum Window Substring**
+   - Problem: Given two strings s and t, return the minimum window in s which will contain all the characters in t.
+
+99. **Distinct Subsequences**
+   - Problem: Given a string S and a string T, count the number of distinct subsequences of S which equals T.
+
+100. **Serialize and Deserialize Binary Tree**
+   - Problem: Design an algorithm to serialize and deserialize a binary tree. Serialization is the process of converting a binary tree into a string so that it can be easily saved to a file or database. Deserialization is the process of reconstructing the binary tree from the string back to its original structure.
 
