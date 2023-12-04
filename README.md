@@ -205,3 +205,94 @@
 67. **Unique Paths in a Grid**
     - Problem: Count the number of unique paths from the top-left corner to the bottom-right corner of a m x n grid.
 
+## Hard Problem
+
+# Hard Coding Problems
+
+68. **Graph BFS**
+   - Problem: Implement Breadth-First Search on a graph.
+
+69. **Graph DFS**
+   - Problem: Implement Depth-First Search on a graph.
+
+70. **Longest Increasing Subsequence**
+   - Problem: Find the longest increasing subsequence in an array.
+
+71. **Knapsack Problem**
+   - Problem: Solve the 0/1 knapsack problem.
+
+72. **Rat in a Maze**
+   - Problem: Solve the rat in a maze problem.
+
+73. **N-Queens Problem**
+   - Problem: Place N queens on an NxN chessboard so that no two queens threaten each other.
+
+74. **Minimum Spanning Tree (Kruskal/Prim)**
+   - Problem: Find the minimum spanning tree of a graph.
+
+75. **Dijkstra's Shortest Path Algorithm**
+   - Problem: Find the shortest paths from a source vertex in a weighted graph.
+
+76. **Bellman-Ford Algorithm**
+   - Problem: Find shortest paths from a single source vertex to all other vertices in a weighted graph.
+
+77. **Floyd Warshall Algorithm**
+   - Problem: Find shortest distances between every pair of vertices in a given edge weighted directed Graph.
+
+78. **Topological Sort**
+   - Problem: Perform topological sort on a directed acyclic graph.
+
+79. **Maximum Flow (Ford-Fulkerson)**
+   - Problem: Implement the Ford-Fulkerson algorithm for computing the maximum flow in a flow network.
+
+80. **Hamiltonian Cycle**
+   - Problem: Determine whether a graph contains a Hamiltonian Cycle or not.
+
+81. **Travelling Salesman Problem**
+   - Problem: Given a set of cities and distances between each pair of cities, find the shortest possible route that visits each city and returns to the original city.
+
+82. **Subset Sum Problem**
+   - Problem: Determine if there is a subset of the given set with sum equal to given sum.
+
+83. **Coin Change Problem**
+   - Problem: Find the number of ways to make change for a particular amount of money, given a set of coins.
+
+84. **Word Break Problem**
+   - Problem: Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
+85. **Largest Rectangle in Histogram**
+   - Problem: Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
+
+86. **Maximal Rectangle**
+   - Problem: Given a 2D binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+
+87. **Binary Tree Maximum Path Sum**
+   - Problem: Given a non-empty binary tree, find the maximum path sum. The path may start and end at any node in the tree.
+
+88. **Wildcard Matching**
+   - Problem: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where '?' Matches any single character and '*' Matches any sequence of characters (including the empty sequence).
+
+89. **Regular Expression Matching**
+   - Problem: Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
+
+90. **Edit Distance**
+   - Problem: Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
+
+91. **Largest Sum Contiguous Subarray (Kadane’s Algorithm Extended)**
+   - Problem: Find the largest sum of a contiguous subarray in a given array which includes handling negative numbers.
+
+92. **Skyline Problem**
+   - Problem: Given a collection of buildings, with each building represented as (Left, Right, Height), return the outline formed by these buildings collectively.
+
+93. **ZigZag Conversion**
+   - Problem: Convert a given string into a zigzag pattern on a given number of rows.
+
+94. **Text Justification**
+   - Problem: Given an array of words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
+
+95. **Find Median from Data Stream**
+   - Problem: Design a data structure that supports the following two operations: addNum(int num) - Add an integer number from the data stream to the data structure. findMedian() - Return the median of all elements so far.
+
+96. **Best Time to Buy and Sell Stock with Cooldown**
+   - Problem: You are given an array prices where prices[i] is the price of a given stock on the i-th day, find the maximum profit you can achieve. You may complete as many transactions as you like
+
